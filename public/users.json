@@ -1,0 +1,194 @@
+[
+  {
+    "profilePicture": "https://via.placeholder.com/150/FF6F61/FFFFFF?text=John",
+    "username": "JohnDoe",
+    "email": "john.doe@example.com",
+    "phoneNumber": "111-222-3333",
+    "birthdate": "1985-01-15",
+    "role": "admin"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FFB6C1/FFFFFF?text=Jane",
+    "username": "JaneSmith",
+    "email": "jane.smith@example.com",
+    "phoneNumber": "444-555-6666",
+    "birthdate": "1990-02-20",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FFD700/FFFFFF?text=Alice",
+    "username": "AliceJohnson",
+    "email": "alice.johnson@example.com",
+    "phoneNumber": "777-888-9999",
+    "birthdate": "1992-03-10",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/90EE90/FFFFFF?text=Bob",
+    "username": "BobBrown",
+    "email": "bob.brown@example.com",
+    "phoneNumber": "000-111-2222",
+    "birthdate": "1988-04-25",
+    "role": "moderator"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/87CEEB/FFFFFF?text=Charlie",
+    "username": "CharlieDavis",
+    "email": "charlie.davis@example.com",
+    "phoneNumber": "333-444-5555",
+    "birthdate": "1993-05-30",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FF6347/FFFFFF?text=David",
+    "username": "DavidWilson",
+    "email": "david.wilson@example.com",
+    "phoneNumber": "666-777-8888",
+    "birthdate": "1987-06-15",
+    "role": "admin"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FFA07A/FFFFFF?text=Emma",
+    "username": "EmmaMoore",
+    "email": "emma.moore@example.com",
+    "phoneNumber": "999-000-1111",
+    "birthdate": "1991-07-20",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FF4500/FFFFFF?text=Frank",
+    "username": "FrankMartin",
+    "email": "frank.martin@example.com",
+    "phoneNumber": "222-333-4444",
+    "birthdate": "1994-08-05",
+    "role": "moderator"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/DA70D6/FFFFFF?text=Grace",
+    "username": "GraceLee",
+    "email": "grace.lee@example.com",
+    "phoneNumber": "555-666-7777",
+    "birthdate": "1995-09-25",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/4682B4/FFFFFF?text=Henry",
+    "username": "HenryWalker",
+    "email": "henry.walker@example.com",
+    "phoneNumber": "888-999-0000",
+    "birthdate": "1996-10-30",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/8A2BE2/FFFFFF?text=Ivy",
+    "username": "IvyAdams",
+    "email": "ivy.adams@example.com",
+    "phoneNumber": "111-222-3333",
+    "birthdate": "1989-11-10",
+    "role": "moderator"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FF69B4/FFFFFF?text=Jack",
+    "username": "JackScott",
+    "email": "jack.scott@example.com",
+    "phoneNumber": "444-555-6666",
+    "birthdate": "1990-12-20",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/00CED1/FFFFFF?text=Kara",
+    "username": "KaraGreen",
+    "email": "kara.green@example.com",
+    "phoneNumber": "777-888-9999",
+    "birthdate": "1992-01-25",
+    "role": "admin"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/3CB371/FFFFFF?text=Liam",
+    "username": "LiamParker",
+    "email": "liam.parker@example.com",
+    "phoneNumber": "000-111-2222",
+    "birthdate": "1986-02-15",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/DAA520/FFFFFF?text=Mia",
+    "username": "MiaTaylor",
+    "email": "mia.taylor@example.com",
+    "phoneNumber": "333-444-5555",
+    "birthdate": "1993-03-20",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/00BFFF/FFFFFF?text=Noah",
+    "username": "NoahHarris",
+    "email": "noah.harris@example.com",
+    "phoneNumber": "666-777-8888",
+    "birthdate": "1987-04-10",
+    "role": "moderator"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FF4500/FFFFFF?text=Olivia",
+    "username": "OliviaClark",
+    "email": "olivia.clark@example.com",
+    "phoneNumber": "999-000-1111",
+    "birthdate": "1994-05-25",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/ADFF2F/FFFFFF?text=Paul",
+    "username": "PaulRodriguez",
+    "email": "paul.rodriguez@example.com",
+    "phoneNumber": "222-333-4444",
+    "birthdate": "1983-06-05",
+    "role": "admin"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FF8C00/FFFFFF?text=Quinn",
+    "username": "QuinnMorgan",
+    "email": "quinn.morgan@example.com",
+    "phoneNumber": "555-666-7777",
+    "birthdate": "1989-07-15",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FF1493/FFFFFF?text=Riley",
+    "username": "RileyJames",
+    "email": "riley.james@example.com",
+    "phoneNumber": "888-999-0000",
+    "birthdate": "1991-08-25",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/9400D3/FFFFFF?text=Sam",
+    "username": "SamHall",
+    "email": "sam.hall@example.com",
+    "phoneNumber": "111-222-3333",
+    "birthdate": "1984-09-05",
+    "role": "moderator"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/00FA9A/FFFFFF?text=Tina",
+    "username": "TinaWhite",
+    "email": "tina.white@example.com",
+    "phoneNumber": "444-555-6666",
+    "birthdate": "1992-10-20",
+    "role": "user"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/FF4500/FFFFFF?text=Ursula",
+    "username": "UrsulaBrown",
+    "email": "ursula.brown@example.com",
+    "phoneNumber": "777-888-9999",
+    "birthdate": "1986-11-30",
+    "role": "admin"
+  },
+  {
+    "profilePicture": "https://via.placeholder.com/150/20B2AA/FFFFFF?text=Victor",
+    "username": "VictorLee",
+    "email": "victor.lee@example.com",
+    "phoneNumber": "000-111-2222",
+    "birthdate": "1995-12-15",
+    "role": "user"
+  }
+]

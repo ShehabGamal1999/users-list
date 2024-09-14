@@ -1,0 +1,12 @@
+<div class="card my-2">
+  <img [src]="user.profilePicture" class="card-img-top" alt="Profile Picture" />
+  <div class="card-body">
+    <h5 class="card-title">{{ user.username }}</h5>
+    <p class="card-text">Email: {{ user.email }}</p>
+    <p class="card-text">Phone: {{ user.phoneNumber }}</p>
+    <p class="card-text">Birthdate: {{ user.birthdate }}</p>
+    <span class="badge" [ngClass]="badgeClass">
+      {{ user.role }}
+    </span>
+  </div>
+</div>

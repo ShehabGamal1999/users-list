@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="input-group my-3">
+    <input
+      type="text"
+      [value]="searchEmail"
+      (input)="onSearchEmailChange($event)"
+      placeholder="Search by email"
+      class="form-control"
+    />
+    <button (click)="searchUsers()" class="btn btn-primary">
+      Search
+    </button>
+  </div>
+
+  <button *ngIf="searchEmail" (click)="resetSearch()" class="btn btn-secondary">
+    Reset
+  </button>
+
+  <div *ngIf="!users.length" class="alert alert-warning">No users found.</div>
+
+  <div class="row">
+    <div class="col-md-4" *ngFor="let user of users; trackBy: trackByEmail">
+      <app-user-card [user]="user"></app-user-card>
+    </div>
+  </div>
+</div>
